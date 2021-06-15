@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "title": "30 Minutes Back Massage",
+            "offers_details": "22% Special website discount",
+            "details": "Focusing on the back, neck & shoulder areas this treatment will  loosen the muscles tension allowing your body to unwind, get rid of stiffness and promote deep relaxation. For more treatment massage, kindly contact our Spa upon arrival.",
+            "price": 3200
+        },
+        {
+            "title": "60 Minutes Aromatherapy Massage",
+            "offers_details": "22% Special website discount",
+            "details": "romatherapy is an amazing combination of essentials oils and relaxing massage. It helps to eliminate anxiety and to reach a state of peace and balance. Choose your personal blend from the available selection. For more treatment massage, kindly contact our Spa upon arrival.",
+            "price": 4500
+        },
+        {
+            "title": "90 Minutes Hot Stone Massage",
+            "offers_details": "22% Special website discount",
+            "details": "Hot stone massage therapy melts away tension, eases muscles fitness, increases circulation and metabolism, promotes deeper muscle relaxation through the usage of smooth, water-heated stones on the body. For more treatment massage, kindly contact our Spa upon arrival.",
+            "price": 7200
+        }
+    ]
+}

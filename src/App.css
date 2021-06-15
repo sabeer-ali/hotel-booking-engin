@@ -36,3 +36,84 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.bg-gold-border  {
+border: 1px solid  #e1bd85!important;
+background-color: #fff;
+
+}
+
+.bg-gold  {
+  background-color: #e1bd85!important;
+}
+
+.text-gold  {
+  color: #b99d6e!important;  
+}
+.color-gold {
+  color: #e1bd85!important;
+}
+
+.base-color{
+  background-color: #800020e0!important;
+}
+.pointer {
+  cursor: pointer;
+}
+.react-datepicker-wrapper .react-datepicker__input-container input {
+  width: 100%;
+}
+.h-100px {
+  height: 75px!important;
+}
+
+.CommonContainer {
+  height: 45px!important;
+  border-color: #800020e0;  
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 20px;
+}
+.fs-7 {
+  font-size: 11px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 15px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #23232391; 
+  border-radius: 15px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #232323; 
+}
+.bg-light-grey {
+  background-color: #D3D3D3;
+}
+
+.w-90 {
+  width: 90%!important;
+}
+
+.room-details-modal ul li {
+  list-style-type: none;    
+}
+
+.room-details-modal ul {
+  padding: 0;
+}

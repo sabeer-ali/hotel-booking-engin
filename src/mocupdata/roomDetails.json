@@ -1,0 +1,107 @@
+{
+    "data": [
+        {
+            "adults": 3,
+            "room_title": "Standard Triple Room",
+            "room_type": "3 adults + 1 child",
+            "amenities": [
+                "ac",
+                "bathrobe",
+                "tv",
+                "wifi",
+                "24h_room_service",
+                "coofee_maker",
+                "safe",
+                "telephone",
+                "baby_cot",
+                "free_shuttle"
+            ],
+            "image": "https://images.mirai.com/INFOROOMS/100376916/YcIaJBCHysCoAamsEOfz/YcIaJBCHysCoAamsEOfz_large.jpg",
+            "room_details": {
+                "description": "This is an air-conditioned spacious room that is enough to accommodate a family of 3 adults and 1 child or 3 adults. It has one full bathroom with shower and tub and includes free toiletries. Streamlined rooms offer minibars, complimentary Wi-Fi and flat-screen TVs, plus tea and coffeemakers. Room service is available 24/7. Rooms are non-smoking and baby cots are available on request free of charge subject to availability. Take advantage of a free shuttle bus from the hotel to the shopping centre and beaches.",
+                "room_size": "37 m² approximately"
+            },
+            "special_offer": {
+                "day_rate": 5500,
+                "offer_price": 4500,
+                "break_fast": 2200,
+                "dinner": 3000,
+                "lunch": 3500
+            },
+            "normal_room_rate": {
+                "day_rate": 4500,
+                "offer_price": 3500,
+                "break_fast": 2000,
+                "dinner": 2500,
+                "lunch": 3000
+            }
+        },
+        {
+            "adults": 2,
+            "room_title": "Family Interconnecting Room",
+            "room_type": "2 adults + 2 child",
+            "amenities": [
+                "ac",
+                "bathrobe",
+                "tv",
+                "wifi",
+                "24h_room_service",
+                "coofee_maker",
+                "safe"
+            ],
+            "image": "https://images.mirai.com/INFOROOMS/100376916/omma6X8ZbKz3t4WJBb1A/omma6X8ZbKz3t4WJBb1A_large.jpg",
+            "room_details": {
+                "description": "This Family Interconnecting room features 2 bedrooms with custom made extra large size twin beds and king size bed. Room facilities include a safe, air-conditioning, desk, ironing facilities, sitting area and a minibar. 2 bathrooms are offered at this room type and are fitted with a shower and bath. The rooms are generously proportioned and beautifully furnished offering you the perfect ambience to relax and unwind while carrying on with your business. Rooms are non-smoking and baby cots are available on request free of charge subject to availability. Take advantage of a free shuttle bus from the hotel to the shopping centre and beaches.",
+                "room_size": "70 m² approximately"
+            },
+            "special_offer": {
+                "day_rate": 5500,
+                "offer_price": 4500,
+                "break_fast": 2200,
+                "dinner": 3000,
+                "lunch": 3500
+            },
+            "normal_room_rate": {
+                "day_rate": 4500,
+                "offer_price": 3500,
+                "break_fast": 2000,
+                "dinner": 2500,
+                "lunch": 3000
+            }
+        },
+        {
+            "adults": 4,
+            "room_title": "Family Interconnecting Room",
+            "room_type": "2 adults + 2 child",
+            "amenities": [
+                "ac",
+                "bathrobe",
+                "tv",
+                "wifi",
+                "24h_room_service",
+                "coofee_maker",
+                "safe",
+                "telephone"
+            ],
+            "image": "https://images.mirai.com/INFOROOMS/100376916/0KrZO3Yl9xDvHL7TPo3Q/0KrZO3Yl9xDvHL7TPo3Q_large.jpg",
+            "room_details": {
+                "description": "This Family Interconnecting room features 2 bedrooms with custom made extra large size twin beds and king size bed. Room facilities include a safe, air-conditioning, desk, ironing facilities, sitting area and a minibar. 2 bathrooms are offered at this room type and are fitted with a shower and bath. The rooms are generously proportioned and beautifully furnished offering you the perfect ambience to relax and unwind while carrying on with your business. Rooms are non-smoking and baby cots are available on request free of charge subject to availability. Take advantage of a free shuttle bus from the hotel to the shopping centre and beaches.",
+                "room_size": "70 m² approximately"
+            },
+            "special_offer": {
+                "day_rate": 5500,
+                "offer_price": 4500,
+                "break_fast": 2200,
+                "dinner": 3000,
+                "lunch": 3500
+            },
+            "normal_room_rate": {
+                "day_rate": 4500,
+                "offer_price": 3500,
+                "break_fast": 2000,
+                "dinner": 2500,
+                "lunch": 3000
+            }
+        }
+    ]
+}
